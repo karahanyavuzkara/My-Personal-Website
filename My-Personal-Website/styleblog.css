@@ -1,0 +1,21 @@
+.text-box{
+    height: 20px;
+    width: 40%;
+    display: flex;
+    position: relative;
+    left: 40%;
+    top: 2%;
+    right: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    
+    
+
+}
+.text-box h1{
+    position: absolute;
+    left: 50%;
+    top: 2%;
+
+
+}
